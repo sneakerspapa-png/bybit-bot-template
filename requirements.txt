@@ -1,0 +1,7 @@
+pybit
+python-dotenv
+pandas
+numpy
+requests
+loguru
+PyYAML

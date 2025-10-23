@@ -1,0 +1,7 @@
+mode: "paper"  # paper | live
+symbols: ["BTCUSDT", "ETHUSDT"]
+timeframe: "3m"
+use_testnet: true
+leverage: 3
+risk_per_trade: 0.01
+daily_max_loss: 0.03
